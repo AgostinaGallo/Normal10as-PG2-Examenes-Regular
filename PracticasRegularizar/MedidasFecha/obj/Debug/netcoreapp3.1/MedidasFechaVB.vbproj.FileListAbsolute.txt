@@ -1,0 +1,13 @@
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\bin\Debug\netcoreapp3.1\MedidasFechaVB.exe
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\bin\Debug\netcoreapp3.1\MedidasFechaVB.deps.json
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\bin\Debug\netcoreapp3.1\MedidasFechaVB.runtimeconfig.json
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\bin\Debug\netcoreapp3.1\MedidasFechaVB.runtimeconfig.dev.json
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\bin\Debug\netcoreapp3.1\MedidasFechaVB.dll
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\bin\Debug\netcoreapp3.1\MedidasFechaVB.pdb
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\obj\Debug\netcoreapp3.1\MedidasFechaVB.vbprojAssemblyReference.cache
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\obj\Debug\netcoreapp3.1\MedidasFechaVB.AssemblyInfoInputs.cache
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\obj\Debug\netcoreapp3.1\MedidasFechaVB.AssemblyInfo.vb
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\obj\Debug\netcoreapp3.1\MedidasFechaVB.vbproj.CoreCompileInputs.cache
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\obj\Debug\netcoreapp3.1\MedidasFechaVB.dll
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\obj\Debug\netcoreapp3.1\MedidasFechaVB.pdb
+D:\vs\practicas\regularizar\PracticasRegularizar\MedidasFecha\obj\Debug\netcoreapp3.1\MedidasFechaVB.genruntimeconfig.cache
