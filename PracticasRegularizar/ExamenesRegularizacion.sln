@@ -7,7 +7,9 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "MedidasFechaVB", "MedidasFe
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VencimientoPagos", "VencimientoPagos\VencimientoPagos.vbproj", "{B79B76E5-70DA-4EE6-B0AF-D27457825F36}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TemperaturaHoras", "TemperaturaHoras\TemperaturaHoras.vbproj", "{1F232B33-C200-4F1D-BD5C-54108603B5F4}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "TemperaturaHoras", "TemperaturaHoras\TemperaturaHoras.vbproj", "{1F232B33-C200-4F1D-BD5C-54108603B5F4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Clothes", "Clothes\Clothes.vbproj", "{13D379D4-93E9-447E-9B1D-4A44E6EC1DDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1F232B33-C200-4F1D-BD5C-54108603B5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F232B33-C200-4F1D-BD5C-54108603B5F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F232B33-C200-4F1D-BD5C-54108603B5F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D379D4-93E9-447E-9B1D-4A44E6EC1DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D379D4-93E9-447E-9B1D-4A44E6EC1DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D379D4-93E9-447E-9B1D-4A44E6EC1DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D379D4-93E9-447E-9B1D-4A44E6EC1DDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

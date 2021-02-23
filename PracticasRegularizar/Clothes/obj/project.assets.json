@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vs\\normal10as\\Normal10as-PG2-Examenes-Regular\\PracticasRegularizar\\MedidasFecha\\MedidasFechaVB.vbproj",
-      "projectName": "MedidasFechaVB",
-      "projectPath": "D:\\vs\\normal10as\\Normal10as-PG2-Examenes-Regular\\PracticasRegularizar\\MedidasFecha\\MedidasFechaVB.vbproj",
+      "projectUniqueName": "D:\\vs\\normal10as\\Normal10as-PG2-Examenes-Regular\\PracticasRegularizar\\Clothes\\Clothes.vbproj",
+      "projectName": "Clothes",
+      "projectPath": "D:\\vs\\normal10as\\Normal10as-PG2-Examenes-Regular\\PracticasRegularizar\\Clothes\\Clothes.vbproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\vs\\normal10as\\Normal10as-PG2-Examenes-Regular\\PracticasRegularizar\\MedidasFecha\\obj\\",
+      "outputPath": "D:\\vs\\normal10as\\Normal10as-PG2-Examenes-Regular\\PracticasRegularizar\\Clothes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

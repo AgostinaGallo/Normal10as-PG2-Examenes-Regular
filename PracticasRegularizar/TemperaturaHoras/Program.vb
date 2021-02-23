@@ -1,4 +1,5 @@
 Imports System
+'Recuperatorio Noviembre
 '2. Crear un programa que informe a partir de lecturas de un día:
 '    - Ingresar un entero que represente una hora. El valor debe estar entre 0 y 23. Solo puede haber una lectura por hora y puede haber horas sin lectura.
 '    - Ingresar un flotante que represente la temperatura a la hora especificada previamente. Se esperan valores negativos y positivos entre -50 y 50
@@ -10,8 +11,42 @@ Imports System
 '    - Informar el promedio de temperatura.
 '    - Informar la amplitud mínima entre las horas que fue, estas pueden ser varias.
 '    Tiempo: 60 minutos.
-Module Program
-    Sub Main(args As String())
-        Console.WriteLine("Hello World!")
+
+Sub Main(args As String())
+        Dim eleccion As ConsoleKeyInfo
+        Dim hora As Byte
+        Dim temperatura As Single
+        Dim 
+        Do While eleccion.Key <> ConsoleKey.Escape
+
+            Console.WriteLine("Presione cualquier tecla para continuar.." & vbCrLf & "ESC = Salir")
+            eleccion = Console.ReadKey
+        Loop
+
+        Console.Write("Ingrese hora: ")
+        hora = Console.ReadLine()
+
+
+        Console.Write("Ingrese temperatura (-50 hasta 50): ")
+        temperatura = Console.ReadLine()
+
     End Sub
+
+    Private Function validarIngresoHora(ByRef hora As Byte) As Boolean
+        If hora >= 0 And hora <= 23 Then
+            Return True
+        Else
+            Return False
+        End If
+    End Function
+
+
+
+    Private Function validarIngresoTemperatura(ByRef temperatura As SByte)
+        If temperatura >= -50 And temperatura <= 50 Then
+            Return True
+        Else
+            Return False
+        End If
+    End Function
 End Module
