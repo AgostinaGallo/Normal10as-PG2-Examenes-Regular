@@ -11,6 +11,8 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "TemperaturaHoras", "Tempera
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Clothes", "Clothes\Clothes.vbproj", "{13D379D4-93E9-447E-9B1D-4A44E6EC1DDF}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Chess", "Chess\Chess.vbproj", "{D6778D9E-4888-43F7-A6C3-A80CB66B524B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{13D379D4-93E9-447E-9B1D-4A44E6EC1DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13D379D4-93E9-447E-9B1D-4A44E6EC1DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13D379D4-93E9-447E-9B1D-4A44E6EC1DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6778D9E-4888-43F7-A6C3-A80CB66B524B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6778D9E-4888-43F7-A6C3-A80CB66B524B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6778D9E-4888-43F7-A6C3-A80CB66B524B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6778D9E-4888-43F7-A6C3-A80CB66B524B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
